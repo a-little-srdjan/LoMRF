@@ -1,3 +1,5 @@
+[![Build](https://github.com/anskarl/lomrf/workflows/build/badge.svg?branch=develop)](https://github.com/anskarl/LoMRF/tree/develop)
+
 <pre>
     o                        o     o   o         o
     |             o          |     |\ /|         | /

@@ -60,8 +60,9 @@ object Dependencies {
   )
 
   // ScalaTest got Unit testing
-  lazy val ScalaTest = "org.scalatest" %% "scalatest" % v.ScalaTest % "test"
-
+  lazy val Testing = Seq(
+    "org.scalatest" %% "scalatest" % v.ScalaTest % "test"
+  )
 
   lazy val Utils = Seq(
     // GNU Trove4j for high performance and memory efficient data-structures
